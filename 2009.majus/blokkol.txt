@@ -1,0 +1,18 @@
+Indulesi emelet: 1
+Celemelet: 2
+Feladatkod: 4
+Befejezes ideje: 11:12:30
+Sikeresseg: befejezett
+-----
+Indulesi emelet: 4
+Celemelet: 2
+Feladatkod: 423
+Befejezes ideje: 14:12:16
+Sikeresseg: befejezetlen
+-----
+Indulesi emelet: 1
+Celemelet: 4
+Feladatkod: 5
+Befejezes ideje: 2
+Sikeresseg: 4
+-----
